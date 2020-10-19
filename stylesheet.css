@@ -232,14 +232,14 @@ footer {
 }
 
 #pageCloud {
-	background-image: url("images/cloud.jpg");
+	background-image: url("images/1.jpg");
 }
 #pageCloud {
-	background-image: url("images/cloud.jpg");
+	background-image: url("images/1.jpg");
 }
 
 #pageDandalion {
-	background-image: url("images/dandelion.jpg");
+	background-image: url("images/2.jpg");
 }
 
 #pageDandalion > p {
@@ -248,7 +248,7 @@ footer {
 	top: 5%;
 }
 #pageDawn {
-	background-image: url("images/dawn.jpg");
+	background-image: url("images/3.jpg");
 }
 
 #pageDawn > p {
@@ -259,7 +259,7 @@ footer {
 }
 #pageRain {
 	
-	background-image: url("images/rain.jpg");
+	background-image: url("images/4.jpg");
 }
 #pageRain > p {
 	width: 50%;
@@ -269,7 +269,7 @@ footer {
 }
 #pageRiver {
 	
-	background-image: url("images/river.jpg");
+	background-image: url("images/5.jpg");
 }
 #pageRiver > p {
 	position: absolute;
@@ -278,5 +278,5 @@ footer {
 }
 #pageSnow {
 	
-	background-image: url("images/snow.jpg");
+	background-image: url("images/6.jpg");
 }
